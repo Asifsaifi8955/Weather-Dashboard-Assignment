@@ -7,7 +7,7 @@ To run the React Weather Dashboard locally, follow these steps:
 
 1. Clone this repository to your local machine: 
 
-git clone "https://github.com/your-username/react-weather-dashboard.git".
+git clone "https://github.com/Asifsaifi8955/Weather-Dashboard-Assignment.git".
 
 2. Navigate to the project directory:
 
